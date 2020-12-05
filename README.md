@@ -35,6 +35,6 @@ You can admire it in the example screenshot above.
 The screensaver text and background colors are of course configurable.
 Unfortunately, the Windows default color selector widget is slightly cumbersome to use, so I made a simple web page:
 
-The ["Big-Time Color Picker"](file:///C:/github/mylioja.github.io/big-time-colors.html) to make it more intuitive to adjust the colors. One still has to manually copy the RGB values from the page to update the configuration, but overall it's a big improvement.
+The ["Big-Time Color Picker"](https://martti.ylioja.com/big-time-colors.html) to make it more intuitive to adjust the colors. One still has to manually copy the RGB values from the page to update the configuration, but overall it's a big improvement.
 
 The page uses the brilliant ["iro.js"](https://iro.js.org/) javascript color picker widget by "James". Check his [GitHub page](https://github.com/jaames/iro.js) for more info.
